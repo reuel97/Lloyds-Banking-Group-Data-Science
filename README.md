@@ -21,7 +21,7 @@ Performed comprehensive model evaluation and tuning, optimising hyperparameters 
 
 ## Result/ Presentation
 
-[Customer_Churn_Analysis_Report.docs](https://github.com/reuel97/Deloitte-Australia/blob/main/Dasboard%201.png)
+[Customer_Churn_Analysis_Report.docs](https://github.com/reuel97/Lloyds-Banking-Group-Data-Science/blob/main/Customer_Churn_Analysis_Report.docx)
 
 [Machine Learning Model for Customer Churn Prediction.docs](https://github.com/reuel97/Deloitte-Australia/blob/main/Task_5_Equality_Table_Updated.xlsx)
 
