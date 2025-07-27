@@ -11,23 +11,23 @@ Performed comprehensive model evaluation and tuning, optimising hyperparameters 
 
 ## Datasets
 
-[Customer_Churn_Data_Large.xls](https://github.com/reuel97/Deloitte-Australia/blob/main/daikibo-telemetry-data.json.zip)
+[Customer_Churn_Data_Large.xls](https://github.com/reuel97/Lloyds-Banking-Group-Data-Science/blob/main/Customer_Churn_Data_Large.xlsx)
 
 
 ## Code
 
-[Lloyds Banking Group Data Science.ipynb](https://github.com/reuel97/Deloitte-Australia/blob/main/Deloitte%20Australia.ipynb)
+[Lloyds Banking Group Data Science.ipynb](https://github.com/reuel97/Lloyds-Banking-Group-Data-Science/blob/main/Lloyds%20Banking%20Group%20Data%20Science.ipynb)
 
 
 ## Result/ Presentation
 
 [Customer_Churn_Analysis_Report.docs](https://github.com/reuel97/Lloyds-Banking-Group-Data-Science/blob/main/Customer_Churn_Analysis_Report.docx)
 
-[Machine Learning Model for Customer Churn Prediction.docs](https://github.com/reuel97/Deloitte-Australia/blob/main/Task_5_Equality_Table_Updated.xlsx)
+[Machine Learning Model for Customer Churn Prediction.docs](https://github.com/reuel97/Lloyds-Banking-Group-Data-Science/blob/main/Machine%20Learning%20Model%20for%20Customer%20Churn%20Prediction.docx)
 
 ## Certification
 
-[Lloyds Bank_completion_certificate.pdf](https://github.com/reuel97/Deloitte-Australia/blob/main/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_yjcqvMtZKQE47GKB2_1741068384176_completion_certificate.pdf)
+[Lloyds Bank_completion_certificate.pdf](https://github.com/reuel97/Lloyds-Banking-Group-Data-Science/blob/main/Lloyds%20Bank_completion_certificate.pdf)
 
 ## Acknowledgements
 
