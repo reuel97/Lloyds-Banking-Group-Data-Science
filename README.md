@@ -11,7 +11,7 @@ Performed comprehensive model evaluation and tuning, optimising hyperparameters 
 
 ## Datasets
 
-[Customer_Churn_Data_Large](https://github.com/reuel97/Deloitte-Australia/blob/main/daikibo-telemetry-data.json.zip)
+[Customer_Churn_Data_Large.xls](https://github.com/reuel97/Deloitte-Australia/blob/main/daikibo-telemetry-data.json.zip)
 
 
 ## Code
@@ -21,13 +21,13 @@ Performed comprehensive model evaluation and tuning, optimising hyperparameters 
 
 ## Result/ Presentation
 
-[Customer_Churn_Analysis_Report](https://github.com/reuel97/Deloitte-Australia/blob/main/Dasboard%201.png)
+[Customer_Churn_Analysis_Report.docs](https://github.com/reuel97/Deloitte-Australia/blob/main/Dasboard%201.png)
 
-[Machine Learning Model for Customer Churn Prediction](https://github.com/reuel97/Deloitte-Australia/blob/main/Task_5_Equality_Table_Updated.xlsx)
+[Machine Learning Model for Customer Churn Prediction.docs](https://github.com/reuel97/Deloitte-Australia/blob/main/Task_5_Equality_Table_Updated.xlsx)
 
 ## Certification
 
-[Lloyds Bank_completion_certificate](https://github.com/reuel97/Deloitte-Australia/blob/main/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_yjcqvMtZKQE47GKB2_1741068384176_completion_certificate.pdf)
+[Lloyds Bank_completion_certificate.pdf](https://github.com/reuel97/Deloitte-Australia/blob/main/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_yjcqvMtZKQE47GKB2_1741068384176_completion_certificate.pdf)
 
 ## Acknowledgements
 
