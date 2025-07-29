@@ -21,9 +21,9 @@ Performed comprehensive model evaluation and tuning, optimising hyperparameters 
 
 ## Result/ Presentation
 
-[Customer_Churn_Analysis_Report.pdf](https://github.com/reuel97/Lloyds-Banking-Group-Data-Science/blob/main/Customer_Churn_Analysis_Report.docx)
+[Customer_Churn_Analysis_Report.pdf](https://github.com/reuel97/Lloyds-Banking-Group-Data-Science/blob/main/Customer_Churn_Analysis_Report.pdf)
 
-[Machine Learning Model for Customer Churn Prediction.pdf](https://github.com/reuel97/Lloyds-Banking-Group-Data-Science/blob/main/Machine%20Learning%20Model%20for%20Customer%20Churn%20Prediction.docx)
+[Machine Learning Model for Customer Churn Prediction.pdf](https://github.com/reuel97/Lloyds-Banking-Group-Data-Science/blob/main/Machine%20Learning%20Model%20for%20Customer%20Churn%20Prediction.pdf)
 
 ## Certification
 
